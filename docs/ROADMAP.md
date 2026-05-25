@@ -8,10 +8,10 @@
 - [x] Configure Git/GitHub
 
 ## Phase 2 — Project Structure
-- [ ] Create backend services
-- [ ] Create detection engine
-- [ ] Add Docker Compose
-- [ ] Add environment configuration
+- [x] Create backend services
+- [x] Create detection engine
+- [x] Add Docker Compose
+- [x] Add environment configuration
 
 ## Phase 3 — Detection Pipeline
 - [ ] Parse logs
