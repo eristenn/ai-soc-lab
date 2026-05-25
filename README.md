@@ -1,30 +1,32 @@
 # AI SOC Lab
 
-An AI-augmented SOC automation platform focused on:
-- security monitoring
-- automated alert triage
-- threat intelligence enrichment
-- SOC workflow automation
-- measurable analyst efficiency improvements
+An AI-powered Security Operations Center (SOC) lab environment built for cybersecurity learning, threat detection experimentation, automation, and infrastructure engineering.
 
-## Planned Features
+## Environment
 
-- Wazuh SIEM integration
-- Sysmon endpoint telemetry
-- Sigma detection rules
-- Automated IOC enrichment
-- Discord alerting
-- AI-generated alert summaries
-- MITRE ATT&CK mapping
-- Alert deduplication
-- Metrics dashboard
-
-## Tech Stack
-
-- Python
+- Windows 11 25H2
+- WSL2 Ubuntu
+- Kali Linux WSL
 - Docker
-- Wazuh
-- Sysmon
-- FastAPI
-- Elasticsearch
-- Sigma
+- Python 3.12
+- Git + GitHub
+
+## Project Goals
+
+- Build a realistic SOC environment
+- Develop AI-assisted threat detection workflows
+- Practice cybersecurity engineering
+- Create Dockerized infrastructure
+- Build monitoring and detection systems
+
+## Repository Structure
+
+```text
+ai-soc-lab/
+├── docs/
+├── backend/
+├── frontend/
+├── detection-engine/
+├── scripts/
+└── logs/
+
